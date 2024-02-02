@@ -1,2 +1,1 @@
-Link: <br>
-https://liveweather2.netlify.app/
+[Website](https://liveweather2.netlify.app/){:target="_blank"}

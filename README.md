@@ -1,1 +1,1 @@
-Link: https://liveweather2.netlify.app/
+https://liveweather2.netlify.app/
